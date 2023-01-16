@@ -1,16 +1,6 @@
-# todolist
+# Todo List
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This  simple app is made in flutter with the following features:
+1) Add new task by clicking the FAB button below
+2) Cross out the task when it is done by tapping the check box
+3) Swipe left and tap delete button to delete the task
